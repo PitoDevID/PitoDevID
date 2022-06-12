@@ -8,7 +8,7 @@
 
 - 🤝 I just copy paste
 
-- 📫 how to contact me  [`Whatsapp`](https://wa.me/6285235637978?text=hallo) or [`Google mail`](pitodevbusiness@gmail.com)
+- 📫 how to contact me  [`Whatsapp`](https://wa.me/6285235637978?text=hallo) or [`Google mail`](mailto:pitodevbusiness@gmail.com)
 
 - ⚡ My job is take care of other people's feelings
 
