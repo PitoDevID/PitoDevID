@@ -1,5 +1,4 @@
 ### <samp>&gt; Hi there, I'm <a href="https://wa.me/6285235637978" target="_blank">PitoDev ArmStrong</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25"> </samp>
-
 <p align="center">
 <img src="https://avatars.githubusercontent.com/PitoDevID" height="180" style="margin-left: auto;margin-right: auto;display: block;">
 </p>
